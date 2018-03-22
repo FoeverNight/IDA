@@ -1,4 +1,0 @@
-river1.asm
-river.asm
-BP.asm
-test.asm
