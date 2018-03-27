@@ -1,5 +1,0 @@
-
-
-s = ""
-
-print s.split()

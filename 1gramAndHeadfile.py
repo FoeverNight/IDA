@@ -91,10 +91,9 @@ for line in opcodefiles:
     for i in range(length):
         codenum[i] = 0
     for line in opcode:
-        for i in range(length):
-            if line.replace('\n', '') == codelist[i]:
-                codenum[i] = codenum[i] + 1
-                break
+        gram = line.replace('\n', '')
+        if gram in codelist:
+            codenum[codelist.index(gram)] = codenum[codelist.index(gram)] + 1
     for i in range(length):
         onegramout.write(' ' + str(i) + ':' + str(codenum[i]))
     onegramout.write('\n')

@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8109c20-29e7-4a89-8895-c55d44e9e8fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/1gramAndHeadfile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-      <change beforePath="$PROJECT_DIR$/Processing-4gram2.py" afterPath="$PROJECT_DIR$/Processing-4gram2.py" />
-      <change beforePath="$PROJECT_DIR$/Processing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Script.py" afterPath="$PROJECT_DIR$/Script.py" />
-      <change beforePath="$PROJECT_DIR$/data/1gram-libsvm.txt" afterPath="$PROJECT_DIR$/data/1gram-libsvm.txt" />
-      <change beforePath="$PROJECT_DIR$/data/1gram.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/2gram-libsvm.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/2gram.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/3gram-libsvm.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/3gram.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/4gram-libsvm.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/4gram.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/BP.asm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/BP.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/index.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/river.asm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/river.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/river1.asm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/river1.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/test.asm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/test.txt" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2gram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/3gram.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/4gram.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/1gramAndHeadfile.py" afterPath="$PROJECT_DIR$/1gramAndHeadfile.py" />
+      <change beforePath="$PROJECT_DIR$/Processing-2gram.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Processing-3gram.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Processing-4gram.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,75 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="Script.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Script.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="opcode_n-gram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ToyMalwareClassification-master/opcode_n-gram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="findhead.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../kaggle_Microsoft_Malware-master/kaggle_Microsoft_malware_full/findhead.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1gramAndHeadfile.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1gramAndHeadfile.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1gramAndHeadfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+            <state relative-caret-position="142">
+              <caret line="87" column="17" lean-forward="false" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Processing-libsvm.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Processing-libsvm.py">
+      <file leaf-file-name="4gram.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4gram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Processing-3gram.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Processing-3gram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3776">
-              <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+            <state relative-caret-position="354">
+              <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -111,8 +43,30 @@
       <file leaf-file-name="Processing-4gram-libsvm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Processing-4gram-libsvm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="2242">
+              <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Processing-2gram-libsvm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Processing-2gram-libsvm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="39" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3gram.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3gram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -144,6 +98,7 @@
       <find>3</find>
       <find>outfile</find>
       <find>CodeFile</find>
+      <find>sum</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,14 +108,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Processing" />
-        <option value="$PROJECT_DIR$/Processing-2gram.py" />
         <option value="$PROJECT_DIR$/2gram-libsvm.py" />
         <option value="$PROJECT_DIR$/Processing-2gramlibsvm.py" />
         <option value="$PROJECT_DIR$/Processing-libsvm.py" />
         <option value="$PROJECT_DIR$/Processing-2gram-libsvm.py" />
-        <option value="$PROJECT_DIR$/Processing-3gram.py" />
         <option value="$PROJECT_DIR$/Processing-3gram-libsvm.py" />
-        <option value="$PROJECT_DIR$/Processing-4gram.py" />
         <option value="$PROJECT_DIR$/Processing-4gram-libsvm.py" />
         <option value="$PROJECT_DIR$/Processing-4gram2.py" />
         <option value="$PROJECT_DIR$/Script.py" />
@@ -170,6 +122,10 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/yuaben/Processing.py" />
         <option value="$PROJECT_DIR$/1gramAndHeadfile.py" />
+        <option value="$PROJECT_DIR$/Processing-2gram.py" />
+        <option value="$PROJECT_DIR$/Processing-3gram.py" />
+        <option value="$PROJECT_DIR$/3gram.py" />
+        <option value="$PROJECT_DIR$/Processing-4gram.py" />
       </list>
     </option>
   </component>
@@ -193,6 +149,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,8 +171,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1gramAndHeadfile">
+  <component name="RunManager" selected="Python.Processing-4gram">
     <configuration name="1gramAndHeadfile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,7 +226,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Processing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Processing-2gram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -282,13 +238,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="IDA" />
-      <option name="SCRIPT_NAME" value="C:\Users\Night\Documents\Code\IDA\1gramAndHeadfile.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Night\Documents\Code\IDA\2gram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Processing-3gram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -300,13 +256,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="IDA" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Script.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Night\Documents\Code\IDA\3gram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Processing-4gram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -318,26 +274,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="IDA" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Night\Documents\Code\IDA\4gram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Script" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Processing" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1gramAndHeadfile" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Processing (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1gramAndHeadfile" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Processing (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Processing-2gram" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Processing-3gram" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Processing-4gram" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1gramAndHeadfile" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Processing (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Processing" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Script" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Processing-4gram" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Processing-3gram" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Processing-2gram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1gramAndHeadfile" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Processing (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -364,13 +320,13 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5024691" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.49753088" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.49753088" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -397,7 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-2gram.py">
+    <entry file="file://$PROJECT_DIR$/2gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1888">
           <caret line="34" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
@@ -418,7 +374,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-3gram.py">
+    <entry file="file://$PROJECT_DIR$/3gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1947">
           <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
@@ -426,7 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-4gram.py">
+    <entry file="file://$PROJECT_DIR$/4gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1888">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="59" />
@@ -445,7 +401,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
           <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -454,7 +412,7 @@
         <state relative-caret-position="1711">
           <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -466,7 +424,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-2gram.py">
+    <entry file="file://$PROJECT_DIR$/2gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1888">
           <caret line="34" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
@@ -480,7 +438,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-3gram.py">
+    <entry file="file://$PROJECT_DIR$/3gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
           <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
@@ -488,7 +446,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-4gram.py">
+    <entry file="file://$PROJECT_DIR$/4gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
@@ -500,7 +458,7 @@
         <state relative-caret-position="1593">
           <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -512,7 +470,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-2gram.py">
+    <entry file="file://$PROJECT_DIR$/2gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1888">
           <caret line="34" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
@@ -526,7 +484,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-3gram.py">
+    <entry file="file://$PROJECT_DIR$/3gram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2242">
           <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
@@ -565,32 +523,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2gram-libsvm.py" />
     <entry file="file://$PROJECT_DIR$/Processing-2gramlibsvm.py" />
-    <entry file="file://$PROJECT_DIR$/Processing-2gram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1888">
-          <caret line="34" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Processing-3gram-libsvm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2242">
           <caret line="40" column="22" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-4gram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1947">
-          <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-4gram-libsvm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-2gram-libsvm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1062">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../kaggle_Microsoft_Malware-master/kaggle_Microsoft_malware_full/gen_opcount_seg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
@@ -655,34 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-838">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ToyMalwareClassification-master/opcode_n-gram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-3gram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3776">
-          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,6 +615,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Processing-libsvm.py" />
+    <entry file="file://$PROJECT_DIR$/yuaben/Processing.py" />
+    <entry file="file://$PROJECT_DIR$/Script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#10#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -722,36 +635,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Processing-libsvm.py">
+    <entry file="file://$PROJECT_DIR$/../ToyMalwareClassification-master/opcode_n-gram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="649">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../kaggle_Microsoft_Malware-master/kaggle_Microsoft_malware_full/findhead.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
+        <state relative-caret-position="696">
           <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yuaben/Processing.py">
+    <entry file="file://$PROJECT_DIR$/Processing-4gram-libsvm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="944">
-          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="2242">
+          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Processing-2gram-libsvm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="39" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2gram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1gramAndHeadfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        <state relative-caret-position="142">
+          <caret line="87" column="17" lean-forward="false" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3gram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4gram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
           <folding />
         </state>
       </provider>
